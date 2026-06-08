@@ -1,13 +1,6 @@
-pycache/
+__pycache__/
 *.pyc
-
 .ipynb_checkpoints/
-
-models/.pkl
-models/.joblib
-
-.env
-
-.vscode/
-
 .DS_Store
+.env
+.vscode/
